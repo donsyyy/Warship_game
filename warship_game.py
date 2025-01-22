@@ -142,7 +142,7 @@ sleep(2)
 boat1 = camp(player1)
 sleep(2)
 boat2 = camp(player2)
-S1 = S2 = []
+S1, S2 = [], []
 t.speed(4)
 data = [["",player1, player2]]
 t.showturtle()
